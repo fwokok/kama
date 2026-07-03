@@ -2,68 +2,68 @@
   "skills": [
     {
       "name": "baoyu-skill-craft",
-      "description": "Use when creating new skills, editing existing skills, or verifying skills â€” requires running baseline test before any content is written; treats skill creation as TDD for process documentation",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills â€?requires running baseline test before any content is written; treats skill creation as TDD for process documentation",
       "version": "2.0.0",
       "category": "development-methodology",
       "author": "fwokok",
       "installName": "baoyu-skill-craft",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/baoyu-skill-craft/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/baoyu-skill-craft/SKILL.md"
       }
     },
     {
       "name": "baoyu-dev-lifecycle",
-      "description": "Use when starting a multi-step development or creative task â€” sets the Phase workflow from design through delivery. Entrypoint for any non-trivial project.",
+      "description": "Use when starting a multi-step development or creative task â€?sets the Phase workflow from design through delivery. Entrypoint for any non-trivial project.",
       "version": "2.0.0",
       "category": "development-methodology",
       "author": "fwokok",
       "installName": "baoyu-dev-lifecycle",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/baoyu-dev-lifecycle/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/baoyu-dev-lifecycle/SKILL.md"
       }
     },
     {
       "name": "baoyu-output-quality",
-      "description": "Use before delivering any user-facing output â€” catches AI tells, verification gaps, placeholder artifacts, inconsistency. Triggers on: output completion, task completion claim, commit/Push/PR before creation.",
+      "description": "Use before delivering any user-facing output â€?catches AI tells, verification gaps, placeholder artifacts, inconsistency. Triggers on: output completion, task completion claim, commit/Push/PR before creation.",
       "version": "2.0.0",
       "category": "quality-assurance",
       "author": "fwokok",
       "installName": "baoyu-output-quality",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/baoyu-output-quality/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/baoyu-output-quality/SKILL.md"
       }
     },
     {
       "name": "baoyu-translate",
-      "description": "Use when translating content between Chinese and English â€” requires reading full source text first, then translating with configured tone/register knobs.",
+      "description": "Use when translating content between Chinese and English â€?requires reading full source text first, then translating with configured tone/register knobs.",
       "version": "1.0.0",
       "category": "content",
       "author": "fwokok",
       "installName": "baoyu-translate",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/baoyu-translate/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/baoyu-translate/SKILL.md"
       }
     },
     {
       "name": "flowchart-decision",
-      "description": "Use when building a decision flowchart or process diagram â€” requires Graphviz DOT format with shape conventions; replaces verbose prose for non-trivial decision logic",
+      "description": "Use when building a decision flowchart or process diagram â€?requires Graphviz DOT format with shape conventions; replaces verbose prose for non-trivial decision logic",
       "version": "1.0.0",
       "category": "diagram",
       "author": "fwokok",
       "installName": "flowchart-decision",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/flowchart-decision/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/flowchart-decision/SKILL.md"
       }
     },
     {
       "name": "subagent-parallel",
-      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies â€” dispatches focused subagents per independent domain; each runs in parallel",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies â€?dispatches focused subagents per independent domain; each runs in parallel",
       "version": "1.0.0",
       "category": "development-methodology",
       "author": "fwokok",
       "installName": "subagent-parallel",
       "files": {
-        "SKILL.md": "https://raw.githubusercontent.com/fwokok/baoyu-skills/main/skills/subagent-parallel/SKILL.md"
+        "SKILL.md": "https://raw.githubusercontent.com/fwokok/kama/main/skills/subagent-parallel/SKILL.md"
       }
     }
   ]
